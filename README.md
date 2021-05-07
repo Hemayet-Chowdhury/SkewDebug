@@ -18,3 +18,5 @@ call the printlog function from the SkewDebug object.
 run your pipeline.
 
 Example pipeline and tool usage in src/main/scala/hc/PipeLine
+
+The dataset location may need to be changed. We are adding the ticket_flights.csv data we used in this github repo in the data folder.
