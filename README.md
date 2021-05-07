@@ -7,15 +7,15 @@ Tool is created as a class file in src/main/scala/SkewDetection/
 
 How to use :
 
-import class.
+Step 1 : import class.
 
-create a SkewDebug object.
+Step 2 : create a SkewDebug object.
 
-pass your spark context as a constructor to the SkewDebug class during object creation.
+Step 3 : pass your spark context as a constructor to the SkewDebug class during object creation.
 
-call the printlog function from the SkewDebug object.
+Step 4 : call the printlog function from the SkewDebug object.
 
-run your pipeline.
+Step 5 : run your pipeline.
 
 Example pipeline and tool usage in src/main/scala/hc/PipeLine
 
